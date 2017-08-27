@@ -1,10 +1,10 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+title: Sonrisa de Colores
+description: Eventos Infantiles Sonrisa de Colores
+keywords: eventos infantiles, cumpleaños, cuentacuentos, pintacaritas, animación infantil
+baseurl:  /sonrisa # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -28,11 +28,24 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: "Somos parte de la magia y alegría de niños y adultos en eventos infantiles de colegios,
+        empresas, municipios, parques, cumpleaños y mucho más. Contamos con variadas
+        rutinas y servicios, para que juntos pasemos momentos inolvidables. Realizando eventos
+        de vacaciones, días del niño, fin de año, navidad, de forma lúdica e innovadora con un
+        trato personal, de calidez hacia ti y todos tus invitados."
+  skills: "Ser capaces de atender de forma eficiente, efectiva y entretenida las fiestas y
+          eventos que demanden nuestros clientes  superando siempre sus expectativas,
+          permitiéndoles disfrutar de toda la energía, creatividad y diversión, siempre educando sin
+          tener que preocuparse de la organización y desarrollo de la celebración."
+  career: "Tener la más alta calidad en Entretenimientos que sean innovadores y
+          educativos a través del juego, fomentando la creatividad, la pasión, la expresión y la
+          libertad para que los ñiños puedan desarrollarse y disfrutar de una fiesta inolvidable
+          fortaleciendo las relaciones entre sus pares y los más grandes promoviendo la
+          convivencia y la socialización de esta forma aprendemos y disfrutamos todos."
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  # name: jalpc
 
 # analytics
 ## google analytics
@@ -48,11 +61,11 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # Build settings
 encoding: utf-8

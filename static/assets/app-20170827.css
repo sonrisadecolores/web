@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.nosotros_text {
+  font-size: 18px;
+  color: #bf18bd
+}
+
+.nosotros_title {
+  font-size: 55px;
+  color: #bf18bd
+}
+
+.skills_text {
+  font-size: 18px;
+  color: #24b495
+}
+
+.skills_title {
+  font-size: 55px;
+  color: #25dbb4
+}
+.career_text {
+  font-size: 18px;
+  color: #64c81e
+}
+
+.career_title {
+  font-size: 55px;
+  color: #33bd2b
+}
