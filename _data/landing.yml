@@ -8,18 +8,18 @@
 
 - id: skills
   i18n: nav.skills
-  name: Servicios
+  name: Misión
   tpl: skills.html
   css: team
 
 - id: career
   i18n: nav.career
-  name: Experiencia
+  name: Visión
   tpl: career.html
   css: timeline
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Contacto
   tpl: links.html
   css: contact

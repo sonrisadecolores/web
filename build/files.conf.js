@@ -50,15 +50,6 @@ module.exports = {
             'static/js/count.js'
         ]
     }, {
-        name: 'blog pages\' jPage',
-        quotefile: '_includes/category.html',
-        prefix: 'jPage-',
-        type: 'js',
-        list: [
-            'static/js/jPages.js',
-            'static/js/js.js'
-        ]
-    }, {
         name: 'all pages',
         quotefile: '_includes/head.html',
         prefix: 'app-',

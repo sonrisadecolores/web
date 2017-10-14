@@ -1,8 +1,15 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center" id="i18_skills">
-            <div class="navy-line"></div>
-            <h1><span class="skills_title" data-i18n="skills.my_skills">Misión</span></h1>
+            <!-- <div class="navy-line"></div><h1> -->
+              <script type="text/javascript">
+                 var message = "Misión";
+                //  var colors = new Array("#bf18bd","#00ff00","#0000ff"); // red, green, blue
+                 var colors = new Array("#ff0000","#f9ff00","#33bd2b"); // red, green, blue
+                 for (var i = 0; i < message.length; i++)
+                    document.write("<span class=\"nosotros_title\" style=\"color:" + colors[(i % colors.length)] + ";\">" + message[i] + "</span>");
+              </script>
+            </h1>
         </div>
     </div>
     <div class="row">
