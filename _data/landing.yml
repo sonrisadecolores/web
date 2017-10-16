@@ -18,6 +18,12 @@
   tpl: career.html
   css: timeline
 
+- id: actividades
+  i18n: nav.actividades
+  name: Actividades
+  tpl: actividades.html
+  css: timeline
+
 - id: links
   i18n: nav.link
   name: Contacto
